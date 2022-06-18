@@ -37,9 +37,9 @@
         </outline>
 
         <outline title="Sports" text="Sports">
-            <outline text="sherdog" title="sheeerdog" type="rss" xmlUrl="https://www.feedspot.com/infiniterss.php?_src=followbtn&followfeedid=11274&q=site:https%3A%2F%2Fwww.sherdog.com%2Frss%2Fnews.xml"/>
-            <outline text="mmajunkie" title="mmajunkie" type="rss" xmlUrl="https://www.feedspot.com/infiniterss.php?_src=followbtn&followfeedid=3341839&q=site:https%3A%2F%2Fmmajunkie.usatoday.com%2Ffeed%2F"/>
-             <outline text="BloodyElbows" title="BloodyElbows" type="rss" xmlUrl="https://www.feedspot.com/infiniterss.php?_src=followbtn&followfeedid=165590&q=site:https%3A%2F%2Fwww.bloodyelbow.com%2Frss%2Fcurrent"/>
+            <outline text="sherdog" title="sheeerdog News" type="rss" xmlUrl="https://www.sherdog.com/rss/news.xml"/>
+            <outline text="mmajunkie" title="mmajunkie" type="rss" xmlUrl="https://mmajunkie.usatoday.com/feed"/>
+             <outline text="BloodyElbows" title="BloodyElbows" type="rss" xmlUrl="https://www.bloodyelbow.com/rss/current"/>
         </outline>
 
         <outline title="Tech" text="Tech">
