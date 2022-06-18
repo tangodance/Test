@@ -41,8 +41,9 @@
         </outline>
 
         <outline title="Sports" text="Sports">
-            <outline text="Yahoo Sports NHL" title="Yahoo Sports NHL" type="rss" xmlUrl="http://sports.yahoo.com/nhl/rss.xml"/>
-            <outline text="Yahoo Sports" title="Yahoo Sports" type="rss" xmlUrl="http://rss.news.yahoo.com/rss/sports"/>
+            <outline text="sherdog" title="sheeerdog" type="rss" xmlUrl="https://www.feedspot.com/infiniterss.php?_src=followbtn&followfeedid=11274&q=site:https%3A%2F%2Fwww.sherdog.com%2Frss%2Fnews.xml"/>
+            <outline text="mmajunkie" title="mmajunkie" type="rss" xmlUrl="https://www.feedspot.com/infiniterss.php?_src=followbtn&followfeedid=3341839&q=site:https%3A%2F%2Fmmajunkie.usatoday.com%2Ffeed%2F"/>
+             <outline text="BloodyElbows" title="BloodyElbows" type="rss" xmlUrl="https://www.feedspot.com/infiniterss.php?_src=followbtn&followfeedid=165590&q=site:https%3A%2F%2Fwww.bloodyelbow.com%2Frss%2Fcurrent"/>
         </outline>
 
         <outline title="Tech" text="Tech">
