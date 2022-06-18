@@ -41,10 +41,6 @@
         </outline>
 
         <outline title="Sports" text="Sports">
-            <outline text="Formula 1" title="Formula 1" type="rss" xmlUrl="http://www.formula1.com/rss/news/latest.rss"/>
-            <outline text="MotoGP" title="MotoGP" type="rss" xmlUrl="http://rss.crash.net/crash_motogp.xml"/>
-            <outline text="N.Y.Times Track And Field" title="N.Y.Times Track And Field" type="rss" xmlUrl="http://topics.nytimes.com/topics/reference/timestopics/subjects/t/track_and_field/index.html?rss=1"/>
-            <outline text="Reuters Sports" title="Reuters Sports" type="rss" xmlUrl="http://feeds.reuters.com/reuters/sportsNews"/>
             <outline text="Yahoo Sports NHL" title="Yahoo Sports NHL" type="rss" xmlUrl="http://sports.yahoo.com/nhl/rss.xml"/>
             <outline text="Yahoo Sports" title="Yahoo Sports" type="rss" xmlUrl="http://rss.news.yahoo.com/rss/sports"/>
         </outline>
