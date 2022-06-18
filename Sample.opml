@@ -21,7 +21,7 @@
             <outline text="almasryalyoum.com" title="Latest News" type="rss" xmlUrl='https://www.almasryalyoum.com/rss/rssfeed?sectionId=150' />
             <outline text="youm7.com" title="youm7" type="rss" xmlUrl="https://www.youm7.com/rss/SectionRss?SectionID=203" />
             <outline text="elwatannews.com" title="elwatannews" type="rss" xmlUrl='https://www.elwatannews.com/home/rssfeeds' />
-            <outline text="elfagr.org" title="elfagr" type="rss" xmlUrl='https://www.elfagr.org/rss.aspx' />
+            <outline text="elfagr.org" title="elfagr" type="rss" xmlUrl="https://www.elfagr.org/rss.aspx" />
             <outline text="alwafd.news" title="alwafd.news" type="rss" xmlUrl="https://alwafd.news/feed" />
             <outline text="alwafd.news" title="alwafd.news important" type="rss" xmlUrl="https://alwafd.news/feed/important" />
             <outline text="Google alahram" title="google alhahram" type="rss" xmlUrl="https://news.google.com/publications/CAAqBwgKMOL4qwsw34PEAw?ceid=EG:ar&amp;oc=3&amp;hl=ar&amp;gl=EG" />
