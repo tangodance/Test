@@ -30,9 +30,6 @@
         <outline title="Leisure" text="Leisure">
             <outline text="CNN Entertainment" title="CNN Entertainment" type="rss" xmlUrl="http://rss.cnn.com/rss/edition_entertainment.rss"/>
             <outline text="E! News" title="E! News" type="rss" xmlUrl="http://uk.eonline.com/syndication/feeds/rssfeeds/topstories.xml"/>
-            <outline text="Hollywood Reporter" title="Hollywood Reporter" type="rss" xmlUrl="http://feeds.feedburner.com/thr/news"/>
-            <outline text="Reuters Entertainment" title="Reuters Entertainment" type="rss"  xmlUrl="http://feeds.reuters.com/reuters/entertainment"/>
-            <outline text="Reuters Music News" title="Reuters Music News" type="rss" xmlUrl="http://feeds.reuters.com/reuters/musicNews"/>
             <outline text="Yahoo Entertainment" title="Yahoo Entertainment" type="rss" xmlUrl="http://rss.news.yahoo.com/rss/entertainment"/>
         </outline>
 
@@ -45,7 +42,6 @@
         <outline title="Tech" text="Tech">
             <outline text="Gadget Lab" title="Gadget Lab" type="rss" xmlUrl="http://www.wired.com/gadgetlab/feed/"/>
             <outline text="Gizmodo" title="Gizmodo" type="rss" xmlUrl="http://gizmodo.com/index.xml"/>
-            <outline text="Reuters Technology" title="Reuters Technology" type="rss" xmlUrl="http://feeds.reuters.com/reuters/technologyNews"/>
         </outline>
     </body>
 </opml>
